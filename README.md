@@ -7,8 +7,8 @@ It calculates the user's BMI and classifies them as **Underweight, Normal, Overw
 
 ## 🚀 Live Demo
 
-🔗 [Click here to try the BMI Calculator](https://sumaiyahibrahim.github.io/Bmi-Calculator/)  
-_(Replace this link if your repo name is different or you host elsewhere.)_
+🔗 [Click here](https://sumaiyahibrahim.github.io/Bmi-Calculator/)  
+
 
 ---
 
