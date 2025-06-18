@@ -14,7 +14,7 @@ It calculates the user's BMI and classifies them as **Underweight, Normal, Overw
 
 ## 📐 BMI Formula
 
-![BMI Formula](.assets/bmi formula.png)
+![BMI Formula](.assets/bmi-formula.png)
 
 ## 📊 BMI Categories (WHO Classification)
 
@@ -46,7 +46,7 @@ It calculates the user's BMI and classifies them as **Underweight, Normal, Overw
 
 ## 📷 Screenshots
 
-![BMI Formula](.assets/bmi-demo.png)
+![BMI Demo](.assets/bmi-demo.png)
 
 ---
 
