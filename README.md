@@ -1,20 +1,23 @@
 # 🧮 BMI Calculator
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A simple and responsive **BMI (Body Mass Index) Calculator** built using **HTML, CSS, and JavaScript**.  
 It calculates the user's BMI and classifies them as **Underweight, Normal, Overweight, or Obese** based on standard WHO guidelines.
- 
+
 ---
 
 ## 🚀 Live Demo
 
 🔗 [Click here](https://sumaiyahibrahim.github.io/Bmi-Calculator/)  
 
-
 ---
 
 ## 📐 BMI Formula
 
 ![BMI Formula](.assets/bmi-formula.jpg)
+
+---
 
 ## 📊 BMI Categories (WHO Classification)
 
