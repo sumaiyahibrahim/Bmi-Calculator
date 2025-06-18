@@ -2,7 +2,7 @@
 
 A simple and responsive **BMI (Body Mass Index) Calculator** built using **HTML, CSS, and JavaScript**.  
 It calculates the user's BMI and classifies them as **Underweight, Normal, Overweight, or Obese** based on standard WHO guidelines.
-
+ 
 ---
 
 ## 🚀 Live Demo
