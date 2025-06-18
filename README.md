@@ -14,19 +14,7 @@ It calculates the user's BMI and classifies them as **Underweight, Normal, Overw
 
 ## 📐 BMI Formula
 
-BMI is calculated using the following formula:
-
-\[
-\text{BMI} = \frac{\text{Weight (kg)}}{\text{Height (m)}^2}
-\]
-
-Example:  
-If your weight is 70kg and height is 1.75m,  
-\[
-\text{BMI} = \frac{70}{1.75 \times 1.75} = 22.86
-\]
-
----
+![BMI Formula](.assets/bmi-demo.png)
 
 ## 📊 BMI Categories (WHO Classification)
 
